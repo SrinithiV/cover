@@ -142,11 +142,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-[OUTPUT](./out6.png)
+[!OUTPUT](./out6.png)
 
 ## HTML VALIDATOR:
 
-[HTML VALIDATOR](./valid6.png)
+[!HTML VALIDATOR](./valid6.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
